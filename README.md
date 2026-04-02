@@ -1,102 +1,27 @@
-# Hi, I'm Krishnanunni S 👋
+# 💫 About Me:
+# Hi, I'm Krishnanunni S 👋<br><br>💻 Software Engineer → SDET (Software Development Engineer in Test)  <br>🧪 Automation Engineer | System Thinker | Quality-Driven Developer  <br>📍 Kerala, India  <br><br>---<br><br>## 🚀 About Me<br><br>- 3+ years of experience in **PHP, Magento 2 , Laravel & backend systems**<br>- Transitioning into a **full-time SDET role**<br>- Strong in **debugging, system design, and workflow automation**<br>- Passionate about building **scalable systems + reliable automation frameworks**<br><br>---<br><br>## 🛠 Tech Stack<br><br>**Languages:**<br>- PHP, JavaScript, TypeScript, Java<br><br>**Frameworks & Technologies:**<br>- Magento 2<br>- Laravel 8<br>- Vue.js<br>- Node.js<br><br>**Testing & Automation:**<br>- Selenium WebDriver (Java)<br>- Playwright (TypeScript)<br>- TestNG<br>- Page Object Model (POM)<br>- API Testing (Postman / REST Assured - learning)<br>- End-to-End Testing<br>- Cross-browser Testing<br><br>**CI/CD & Tools:**<br>- Jenkins<br>- Git & GitHub<br>- MySQL<br><br>---<br><br>## 🧪 SDET Profile Summary<br><br>Detail-oriented SDET with a strong development background and expertise in building **automation-first systems**. Skilled in designing scalable frameworks using **Selenium, TestNG, and POM**, along with modern automation using **Playwright (TypeScript)**.<br><br>Experienced in validating complex systems through **UI, API, and integration testing**, and integrating automation into CI/CD pipelines using **Jenkins**. Focused on improving system reliability through intelligent test design, failure simulation, and continuous validation.<br><br>---<br><br>## 🔥 Featured Projects<br><br>### ⚡ ChargingHub.ev (EV Charging Hub) — *Flagship Project*<br>- Designed a **real-time EV charging management platform**<br>- Focused on **scalability, load balancing, and system reliability**<br>- Implements **smart allocation of charging slots**<br>- Built with a strong emphasis on **system architecture and performance**<br>- Serves as a base system for advanced **testing & automation strategies**<br><br>---<br><br>### 🤖 Automation Agent (Playwright + AI)<br>- Built an intelligent automation system using **Playwright (TypeScript)**<br>- Covers:<br>  - UI + API + DB validation<br>  - End-to-End testing workflows<br>  - Auto bug detection → fix → retest pipeline<br>- Includes advanced concepts:<br>  - Chaos testing (failure simulation)<br>  - Observability (logs, metrics, tracing)<br>  - Retry & self-healing mechanisms<br><br>---<br><br>## 📌 Current Focus<br><br>- Building **AI-powered automation systems**<br>- Mastering **Playwright for modern testing**<br>- Designing **resilient and observable systems**<br>- Bridging **development + testing (true SDET mindset)**<br><br>---<br><br>## 📈 Goals for 2026<br><br>- Become a **high-impact SDET**<br>- Build a **production-grade automation ecosystem**<br>- Specialize in **system reliability & chaos engineering**<br>- Contribute to **advanced testing frameworks**<br><br>---<br><br>## 📫 Connect With Me<br><br>- LinkedIn: https://www.linkedin.com/in/krishnanunni96<br>- Email: krishnanunni.s.1996@gmail.com<br><br>---<br><br>⭐️ *Not just testing systems — engineering quality into them.*
 
-💻 Software Engineer → SDET (Software Development Engineer in Test)  
-🧪 Automation Engineer | System Thinker | Quality-Driven Developer  
-📍 Kerala, India  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasing__pixels) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnanunni96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Krishnan7027@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krishnan7027&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Krishnan7027&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnan7027&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 3+ years of experience in **PHP, Magento 2 , Laravel & backend systems**
-- Transitioning into a **full-time SDET role**
-- Strong in **debugging, system design, and workflow automation**
-- Passionate about building **scalable systems + reliable automation frameworks**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Krishnan7027&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠 Tech Stack
-
-**Languages:**
-- PHP, JavaScript, TypeScript, Java
-
-**Frameworks & Technologies:**
-- Magento 2
-- Laravel 8
-- Vue.js
-- Node.js
-
-**Testing & Automation:**
-- Selenium WebDriver (Java)
-- Playwright (TypeScript)
-- TestNG
-- Page Object Model (POM)
-- API Testing (Postman / REST Assured - learning)
-- End-to-End Testing
-- Cross-browser Testing
-
-**CI/CD & Tools:**
-- Jenkins
-- Git & GitHub
-- MySQL
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Krishnan7027&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Krishnan7027&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧪 SDET Profile Summary
-
-Detail-oriented SDET with a strong development background and expertise in building **automation-first systems**. Skilled in designing scalable frameworks using **Selenium, TestNG, and POM**, along with modern automation using **Playwright (TypeScript)**.
-
-Experienced in validating complex systems through **UI, API, and integration testing**, and integrating automation into CI/CD pipelines using **Jenkins**. Focused on improving system reliability through intelligent test design, failure simulation, and continuous validation.
-
----
-
-## 🔥 Featured Projects
-
-### ⚡ ChargingHub.ev (EV Charging Hub) — *Flagship Project*
-- Designed a **real-time EV charging management platform**
-- Focused on **scalability, load balancing, and system reliability**
-- Implements **smart allocation of charging slots**
-- Built with a strong emphasis on **system architecture and performance**
-- Serves as a base system for advanced **testing & automation strategies**
-
----
-
-### 🤖 Automation Agent (Playwright + AI)
-- Built an intelligent automation system using **Playwright (TypeScript)**
-- Covers:
-  - UI + API + DB validation
-  - End-to-End testing workflows
-  - Auto bug detection → fix → retest pipeline
-- Includes advanced concepts:
-  - Chaos testing (failure simulation)
-  - Observability (logs, metrics, tracing)
-  - Retry & self-healing mechanisms
-
----
-
-## 📌 Current Focus
-
-- Building **AI-powered automation systems**
-- Mastering **Playwright for modern testing**
-- Designing **resilient and observable systems**
-- Bridging **development + testing (true SDET mindset)**
-
----
-
-## 📈 Goals for 2026
-
-- Become a **high-impact SDET**
-- Build a **production-grade automation ecosystem**
-- Specialize in **system reliability & chaos engineering**
-- Contribute to **advanced testing frameworks**
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/krishnanunni96
-- Email: krishnanunni.s.1996@gmail.com
-
----
-
-⭐️ *Not just testing systems — engineering quality into them.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
